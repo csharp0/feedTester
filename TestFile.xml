@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>DEV-10915</title>
+		<link>https://www.w3schools.com</link>
+		<description>Free web building tutorials</description>
+		<item>
+			<title>1 - front white space</title>
+			<link>https://www.w3schools.com/xml/xml_rss.asp</link>
+			<category>
+				<![CDATA[ test1]]>
+			</category>
+			<description>New RSS tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>2 - middle double spaces</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[test  2]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>3 - end white space</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[test3 ]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>4 - all spaces</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[  test  4  ]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>5 - all special chars</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[`~!@#$%^&*()_+{}|":<>?/.,;'[]\=-]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>6 - Chinese</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[漢字]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>7 - French</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[â, ê, î, ô, û]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>8 - Spanish</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[á, é, í, ó, ú, ü, ñ, ¿, ¡]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>9 - Viet</title>
+			<link>https://www.w3schools.com/xml/xml_rss.asp</link>
+			<category>
+				<![CDATA[chữ quốc ngữ]]>
+			</category>
+			<description>New RSS tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>10 - Null</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>11 - missing tag</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[missing tag]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>12 - length without spaces</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>13 - length with spaces</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 ]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>14 - duplicate name with different case</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[TEST1]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>15 - duplicate name with spaces</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[      test1       ]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>16 - duplicate name with additional chars</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[Test Tag 1--]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>17 - duplicate name with other language</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[漢字]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+		<item>
+			<title>18 - duplicate name with different case</title>
+			<link>https://www.w3schools.com/xml</link>
+			<category>
+				<![CDATA[TEST TAG 1]]>
+			</category>
+			<description>New XML tutorial on W3Schools</description>
+		</item>
+	</channel>
+</rss>
